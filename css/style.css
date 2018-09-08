@@ -124,9 +124,28 @@ a:hover {
 
 .problem {
     background: url("../img/robo_human_wisdom.svg");
-    background-repeat: none;
+    background-repeat: no-repeat;
+    background-position: center center;
     background-size: cover;
-        
+    color: black !important;
+    min-height: 300px;
+}
+
+
+#possibilities {
+    background-attachment: fixed;
+    background: url(img/robohuman.mp4); 
+    
+}
+
+.problem > p {
+    color: white !important;
+    background: rgba(25,25,25,0.7)
+}
+
+.problem > h2 {
+    color: white !important;
+    background: rgba(25,25,25,0.7)
 }
 
 .hero:after {
