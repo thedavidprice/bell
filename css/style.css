@@ -1120,12 +1120,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-right: 30px;
   }
     
-    .about {
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
-
-    #stakeholders {
-        padding-top: 0px;
+    .hero {
+      display: table;
+      position: relative;
+      background-image: url(../img/robo_human_wisdom_vert.svg);
+      background-size: 70vh;
+      padding: 150px 0;
+      color: #fff;
+      width: 100%;
+        margin-bottom: 0px;
+        padding-bottom: 9px;
     }
 }
