@@ -736,7 +736,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     top: 0px;
     left: 0px;
     z-index: 0;
-    background: blue;
+    background: black;
     opacity: 0.4;
     overflow: hidden;
 }
