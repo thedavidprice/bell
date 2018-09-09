@@ -606,7 +606,6 @@ hr {
     grid-template-rows: 20% 60% 20%;
     justify-items: center;
     align-items: center;
-    margin-bottom: 40px;
     grid-gap: 1px;
 }
 
@@ -618,6 +617,8 @@ hr {
     text-align: center;
     padding: 20px;
     min-height: 136px;
+    display: flex;
+    align-items: center;
 }
 
 .t2 {
@@ -628,6 +629,8 @@ hr {
     text-align: center;
     padding: 20px;
     min-height: 135px;
+    display: flex;
+    align-items: center;
 }
 
 .t3 {
@@ -638,6 +641,8 @@ hr {
     text-align: center;
     padding: 20px;
     min-height: 135px;
+    display: flex;
+    align-items: center;
 }
 
 .t4 {
@@ -648,6 +653,8 @@ hr {
     text-align: center;
     padding: 20px;
     min-height: 135px;
+    display: flex;
+    align-items: center;
 }
 
 
