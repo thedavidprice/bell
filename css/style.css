@@ -90,10 +90,6 @@ a {
     padding: 0px;
 }
 
-.values:nth-child(odd) {
-    background-color: antiquewhite;
-}
-
 .btn-ghost:hover {
   background-color: #fff;
   color: #199EB8;
@@ -543,7 +539,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     grid-gap: 8px;
     justify-items: center;
     align-items: center;
-    margin-bottom: 8px;
+    margin-bottom: 40px;
 }
 
 .a1 {
@@ -570,6 +566,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .gap {
     grid-column: 1/3;
     grid-row: 2/3;
+    padding: 10px;
 }
 
 .b1 {
