@@ -69,9 +69,9 @@ a {
 
 .values {
 	margin-top: 0px;
+    padding: 5px;
     width: 100%;
     text-align: center;
-    font-size: 0px;
     background-color: #199EB8;
     display: flex;
     justify-content: center;
@@ -83,12 +83,15 @@ a {
 
 .value {
     display: inline-block;
-    font-size: 20px;
-    background-color: #199EB8;
+    font-size: 16px;
     color: aliceblue;
     align-self: center;
     margin: 0 100px;
     padding: 0px;
+}
+
+.values:nth-child(odd) {
+    background-color: antiquewhite;
 }
 
 .btn-ghost:hover {
@@ -1062,6 +1065,35 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-left: 30px;
     padding-right: 30px;
   }
+    
+    .values {
+        display: block;
+    }
+    
+    .value {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+    
+    .value img {
+        width: 80px;;
+        margin-right: 20px;
+    }
+    
+    .hero {
+      display: table;
+      position: relative;
+      background-image: url(../img/robo_human_wisdom_vert.svg);
+      background-size: 100vh;
+     background-repeat: no-repeat;
+      padding: 150px 0;
+      color: #fff;
+      width: 100%;
+        margin-bottom: 0px;
+        padding-bottom: 9px;
+    }
 }
 
 @media (max-width: 400px) {
