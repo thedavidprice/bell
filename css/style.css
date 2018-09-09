@@ -669,7 +669,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   vertical-align: middle;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.4);
   top: 0;
   left: 0;
   text-align: center;
@@ -727,6 +727,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 .team .card h4 {
   color: #fff;
   text-transform: uppercase;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+    background: blue;
+    opacity: 0.4;
+    overflow: hidden;
 }
 
 .team .card p {
