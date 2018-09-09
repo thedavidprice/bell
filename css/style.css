@@ -569,6 +569,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 10px;
 }
 
+img.gap {
+    width: 60%
+}
+
 .b1 {
     grid-column: 1/2;
     grid-row: 3/4;
@@ -1198,5 +1202,9 @@ hr {
         margin-bottom: 0px;
         padding-bottom: 9px;
     }
+    
+    img.gap {
+    width: 100%
+}
     
 }
