@@ -1119,4 +1119,13 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-left: 30px;
     padding-right: 30px;
   }
+    
+    .about {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+    #stakeholders {
+        padding-top: 0px;
+    }
 }
