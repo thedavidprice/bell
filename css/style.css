@@ -67,6 +67,30 @@ a {
   background-color: transparent;
 }
 
+.values {
+	margin-top: 0px;
+    width: 100%;
+    text-align: center;
+    font-size: 0px;
+    background-color: #199EB8;
+    display: flex;
+    justify-content: center;
+}
+
+.values img {
+    width: 60%;
+}
+
+.value {
+    display: inline-block;
+    font-size: 20px;
+    background-color: #199EB8;
+    color: aliceblue;
+    align-self: center;
+    margin: 0 100px;
+    padding: 0px;
+}
+
 .btn-ghost:hover {
   background-color: #fff;
   color: #199EB8;
@@ -1034,6 +1058,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 767px) {
+  .block {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 400px) {
   .block {
     padding-left: 30px;
     padding-right: 30px;
