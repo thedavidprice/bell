@@ -1096,8 +1096,8 @@ body.mobile-nav-active #mobile-nav-toggle {
       display: table;
       position: relative;
       background-image: url(../img/robo_human_wisdom_vert.svg);
-      background-size: 100vh;
-     background-repeat: no-repeat;
+      background-size: 70vh;
+     background-repeat: repeat-x;
       padding: 150px 0;
       color: #fff;
       width: 100%;
