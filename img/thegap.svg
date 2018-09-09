@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="477px" height="474px" viewBox="0 0 477 474" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="475px" height="467px" viewBox="0 0 475 467" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
-    <title>thegap</title>
+    <title>Untitled</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" stroke="#000000" stroke-width="4" fill="#4A90E2" fill-rule="nonzero" x="37" y="5" width="435" height="435" rx="3"></rect>
-        <text id="AI-&amp;-Robotics-Techno" font-family="ProximaNova-BoldIt, Proxima Nova" font-size="24" font-style="italic" font-weight="bold" fill="#000000">
-            <tspan x="165.28" y="83">AI &amp; Robotics</tspan>
-            <tspan x="165.256" y="112">Technologies</tspan>
-        </text>
-        <text id="Policy" font-family="ProximaNova-BoldIt, Proxima Nova" font-size="24" font-style="italic" font-weight="bold" fill="#000000">
-            <tspan x="302.408" y="416">Policy</tspan>
-        </text>
-        <text id="Time" font-family="ProximaNova-Bold, Proxima Nova" font-size="24" font-weight="bold" fill="#000000">
-            <tspan x="334.12" y="464">Time</tspan>
-        </text>
-        <path id="Line-3" d="M17.5,4.5 L5.5,28.5 L29.5,28.5 L17.5,4.5 Z M19.5,80.5 L19.5,26.5 L19.5,24.5 L15.5,24.5 L15.5,26.5 L15.5,80.5 L15.5,82.5 L19.5,82.5 L19.5,80.5 Z" fill="#000000" fill-rule="nonzero"></path>
-        <path id="Line-3" d="M472,458 L448,446 L448,470 L472,458 Z M396,460 L450,460 L452,460 L452,456 L450,456 L396,456 L394,456 L394,460 L396,460 Z" fill="#000000" fill-rule="nonzero"></path>
-        <text id="Advancement" transform="translate(14.500000, 164.000000) rotate(-90.000000) translate(-14.500000, -164.000000) " font-family="ProximaNova-Bold, Proxima Nova" font-size="24" font-weight="bold" fill="#000000">
-            <tspan x="-60.848" y="173.5">Advancement</tspan>
-        </text>
-        <path id="Line" d="M310.5,117.5 L254.940492,141.125011 L296.064304,176.122612 L310.5,117.5 Z M45.8077603,436.240519 L282.782024,157.784726 L286.022543,153.976966 L278.407022,147.495929 L275.166503,151.303689 L38.1922397,429.759481 L34.951721,433.567242 L42.5672416,440.048279 L45.8077603,436.240519 Z" fill="#417505" fill-rule="nonzero"></path>
-        <path id="Line-2" d="M345,364 L297.135973,352.640646 L307.194101,395.475609 L345,364 Z M41.4143752,439.394088 L307.113835,377.004888 L311.007922,376.090512 L309.179172,368.302337 L305.285084,369.216713 L39.5856248,431.605912 L35.6915372,432.520288 L37.5202877,440.308463 L41.4143752,439.394088 Z" fill="#F5A623" fill-rule="nonzero"></path>
-        <rect id="Rectangle" stroke="#000000" stroke-width="4" fill-rule="nonzero" x="37" y="5" width="435" height="435" rx="3"></rect>
-        <path d="M296,332.254608 L301.706687,332.254608 C304.887463,332.254608 307.600478,326.34447 307.600478,317.479263 L307.600478,281.230415 C307.600478,272.956221 308.816657,266.258065 311.903881,263.5 C308.816657,260.741935 307.600478,254.043779 307.600478,245.769585 L307.600478,209.323733 C307.600478,200.458525 304.887463,194.745392 301.706687,194.745392 L296,194.745392 L296,178 L301.706687,178 C309.190866,178 316.207284,190.017281 316.207284,209.520737 L316.207284,243.208525 C316.207284,250.497696 317.797672,256.407834 321.072,256.407834 L321.072,270.592166 C317.797672,270.592166 316.207284,276.502304 316.207284,283.791475 L316.207284,317.676267 C316.207284,337.179724 309.190866,349 301.706687,349 L296,349 L296,332.254608 Z" id="}" fill="#D0021B"></path>
+        <g id="thegap" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" fill="#199EB8" fill-rule="nonzero" x="38" y="1" width="435" height="435" rx="3"></rect>
+            <text id="AI-&amp;-Robotics" fill="#000000" font-family="ProximaNova-BoldIt, Proxima Nova" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="166.28" y="79">AI &amp; Robotics</tspan>
+            </text>
+            <text id="Technologies" fill="#000000" font-family="ProximaNova-BoldIt, Proxima Nova" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="166.256" y="108">Technologies</tspan>
+            </text>
+            <text id="Policy" fill="#000000" font-family="ProximaNova-BoldIt, Proxima Nova" font-size="24" font-style="italic" font-weight="bold">
+                <tspan x="303.408" y="412">Policy</tspan>
+            </text>
+            <text id="Time" fill="#000000" font-family="ProximaNova-Bold, Proxima Nova" font-size="24" font-weight="bold">
+                <tspan x="335.12" y="460">Time</tspan>
+            </text>
+            <path d="M18.5,0.5 L6.5,24.5 L30.5,24.5 L18.5,0.5 Z M20.5,76.5 L20.5,22.5 L20.5,20.5 L16.5,20.5 L16.5,22.5 L16.5,76.5 L16.5,78.5 L20.5,78.5 L20.5,76.5 Z" id="Line-3" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M473,454 L449,442 L449,466 L473,454 Z M397,456 L451,456 L453,456 L453,452 L451,452 L397,452 L395,452 L395,456 L397,456 Z" id="Line-3" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Advancement" transform="translate(15.500000, 159.500000) rotate(-90.000000) translate(-15.500000, -159.500000) translate(-60.500000, 144.500000)" fill="#000000" font-family="ProximaNova-Bold, Proxima Nova" font-size="24" font-weight="bold">
+                <text>
+                    <tspan x="0.152" y="24.5">Advancement</tspan>
+                </text>
+            </g>
+            <path d="M311.5,113.5 L255.940492,137.125011 L297.064304,172.122612 L311.5,113.5 Z M46.8077603,432.240519 L283.782024,153.784726 L287.022543,149.976966 L279.407022,143.495929 L276.166503,147.303689 L39.1922397,425.759481 L35.951721,429.567242 L43.5672416,436.048279 L46.8077603,432.240519 Z" id="Line" fill="#417505" fill-rule="nonzero"></path>
+            <path d="M346,360 L298.135973,348.640646 L308.194101,391.475609 L346,360 Z M42.4143752,435.394088 L308.113835,373.004888 L312.007922,372.090512 L310.179172,364.302337 L306.285084,365.216713 L40.5856248,427.605912 L36.6915372,428.520288 L38.5202877,436.308463 L42.4143752,435.394088 Z" id="Line-2" fill="#F5A623" fill-rule="nonzero"></path>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" x="38" y="1" width="435" height="435" rx="3"></rect>
+            <path d="M297,328.254608 L302.706687,328.254608 C305.887463,328.254608 308.600478,322.34447 308.600478,313.479263 L308.600478,277.230415 C308.600478,268.956221 309.816657,262.258065 312.903881,259.5 C309.816657,256.741935 308.600478,250.043779 308.600478,241.769585 L308.600478,205.323733 C308.600478,196.458525 305.887463,190.745392 302.706687,190.745392 L297,190.745392 L297,174 L302.706687,174 C310.190866,174 317.207284,186.017281 317.207284,205.520737 L317.207284,239.208525 C317.207284,246.497696 318.797672,252.407834 322.072,252.407834 L322.072,266.592166 C318.797672,266.592166 317.207284,272.502304 317.207284,279.791475 L317.207284,313.676267 C317.207284,333.179724 310.190866,345 302.706687,345 L297,345 L297,328.254608 Z" id="}" fill="#D0021B" fill-rule="nonzero"></path>
+        </g>
     </g>
 </svg>
