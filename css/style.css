@@ -987,6 +987,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #199EB8;
 }
 
+.about {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#stakeholders {
+    padding-top: 0px;
+}
+
 /* ==================================================
   Responsive Styling
   ================================================== */
