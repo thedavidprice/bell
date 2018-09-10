@@ -1332,4 +1332,8 @@ img.gap {
     padding: 20px;
     border-radius: 10px;
 }
+.btn.btn-full {
+	border: 2px solid #E04F00;
+}
+    
 }
