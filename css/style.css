@@ -563,7 +563,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 img.gap {
-    width: 60%
+    width: 50%
 }
 
 .b1 {
@@ -1240,6 +1240,7 @@ hr {
     padding: 20px;
     min-height: 136px;
     border: 2px solid white;
+    border-radius: 9px;
 }
 
 .t2 {
@@ -1248,9 +1249,8 @@ hr {
     background-color: #199EB8;
     color: white;
     text-align: center;
-    padding: 20px;
-    min-height: 135px;
     border: 2px solid white;
+    border-radius: 9px;
 }
 
 .t3 {
@@ -1259,9 +1259,8 @@ hr {
     background-color: #199EB8;
     color: white;
     text-align: center;
-    padding: 20px;
-    min-height: 135px;
     border: 2px solid white;
+    border-radius: 9px;
 }
 
 .t4 {
@@ -1273,6 +1272,7 @@ hr {
     padding: 20px;
     min-height: 135px;
     border: 2px solid white;
+    border-radius: 9px;
 }
     
     .problem-content {
@@ -1332,14 +1332,4 @@ img.gap {
     padding: 20px;
     border-radius: 10px;
 }
-}
-
-@media (max-width: 500px) {
-  .block {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-    
-    img.gap {
-    width: 80%
 }
