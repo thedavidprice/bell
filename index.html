@@ -48,26 +48,27 @@
 <body>
   <!-- Page Content
     ================================================== -->
-  
+
     <!-- Header -->
-    <header id="header">
-   
-    
+    <header id="header" style="height:80px">
+
+
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="#top"><img src="img/acro.png" alt="" title="" /></img></a>
+        <a href="#top"><img src="img/acro.png" alt="" title="" /></img></a><br>
+        <span style="color: white; font-style: italic">Association of Cloud Robot Operators</span>
         <!-- Uncomment below if you prefer to use a text image -->
         <!--<h1><a href="#hero">Bell</a></h1>-->
       </div>
 
-      <nav id="nav-menu-container">
+      <nav id="nav-menu-container" style="float:right;">
         <ul class="nav-menu">
-          <li><a href="#top"></a></li>
-          <li><a href="#problem">Problem</a></li>
-          <li><a href="#solution">Solution</a></li>
-          <li><a href="#stakeholders">Stakeholders</a></li>
-          <li><a href="#contact">Join Us</a></li>
+          <li><a href="#top" style="font-size:20px;"></a></li>
+          <li><a href="#problem" style="font-size:20px;">Problem</a></li>
+          <li><a href="#solution" style="font-size:20px;">Solution</a></li>
+          <li><a href="#stakeholders" style="font-size:20px;">Stakeholders</a></li>
+          <li><a href="#contact" style="font-size:24px;font-weight:bold;">Join Us</a></li>
         </ul>
       </nav>
       <!-- #nav-menu-container -->
@@ -75,11 +76,11 @@
     </div>
   </header>
     <!-- #header -->
-  
+
     <!-- Top -->
     <section class="hero" id="top">
     <div class="container text-center">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-md-12">
           <a href="index.html" title="Home"><h1 style="color: white; font-size: 50px;">ACRO</h1></a>
           <hr style="width: 50%" />
@@ -87,19 +88,20 @@
           Association of Cloud Robot Operators
         </p>
         </div>
-      </div>
+      </div> -->
 
       <div class="col-md-12">
-          <h1>
+          <!-- <h1>
             Robots we can live with
+          </h1> -->
+          <h1>
+            Creating today's structure to maximize tomorrow's robotics.
           </h1>
+          <h2>
+            -- Robots we can live with --
+          </h2>
 
-        <p class="tagline" style="background-color: rgba(240,255,255,0.5); border-radius: 10px; color: black; font-weight: 600">
-          ACRO’s mission is to
- serve as the world’s most trusted generator of policy 
-for the operation of cloud-connected robots 
-that optimize the safety and quality of human life.
-        </p>
+
         <a class="btn btn-full" href="#contact">Join Us</a>
       </div>
     </div>
@@ -118,36 +120,54 @@ that optimize the safety and quality of human life.
     <!-- Problem -->
     <section class="about" id="problem">
     <div class="container" style="position:relative">
-          <h1 class="text-center" style="background-color: #199EB8; color: white; margin-bottom: 10px; border-radius: 5px;">PROBLEM</h1>
-         <h2 class="text-center">
-             The size, weight, and energy consumption of hardware capable of supporting smart robots - those with capabilities similar to humans - prevent the robots of our future from being realized.
-             <hr />
-             <div style="font-size: 17px;">This obstacle can be overcome with cloud robots that share a ‘brain’ via cloud connectivity.</div>
+          <!-- <h1 class="text-center" style="background-color: #199EB8; color: white; margin-bottom: 10px; border-radius: 5px;">PROBLEM</h1> -->
+          <!-- dsp note: for future, only use one h1 on page for SEO purposes -->
+        <h2 style="font-weight:bold;">
+          Robotics has a dirty little secret -- their "brains" are holding them down (literally).
         </h2>
-        
+         <h3 class="text-center">
+             Current robots are small for a reason. Those with capabilities similar to humans are held back by physical limitations.
+             <ul>
+               <li>the size is much too big</li>
+               <li>the weight blah blah</li>
+               <li>and these drive energy consumption, which is unfeasible</li>
+             </ul>
+        </h3>
+        <h2 style="margin-bottom:15px;margin-top:45px;font-weight:bold">
+          Advances in cloud computing and connectivity are optimistic.
+        </h2>
+        <h3 style="margin-bottom:45px">Potential to overcome physical limitations with cloud robots that share a ‘brain’ via cloud connectivity.</h3>
+        <h2 style="margin-bottom:15px;margin-top:45px;font-weight:bold">
+            <em>However</em>, existing policy organizations are not focused on cloud robots, lack the necessary expertise, or <span style="font-style: italic; font-weight: 700;">are too slow.</span>
+        </h2>
+        <h3 style="margin-bottom:45px">
+            Accordingly, a <span style="font-style: italic; font-weight: 700;">gap</span> exists between tech advances and policy, and <span style="font-style: italic; font-weight: 700;">the gap is widening!</span>
+        </h3>
         <div class="problem-content">
-            <div class="a1">Existing policy organizations are not focused on cloud robots, lack the necessary expertise, or <span style="font-style: italic; font-weight: 700;">are too slow.</span></div>
-            <div class="a2">Accordingly, a <span style="font-style: italic; font-weight: 700;">gap</span> exists between tech advances and policy, and <span style="font-style: italic; font-weight: 700;">the gap is widening!</span></div>
-               
+
                 <img class="gap" src="img/thegap.svg">
-                
+
             <div class="b1">Because people are wary of robots and big tech companies having a presence in their personal lives, new platforms and approaches are needed that are <span style="font-style: italic; font-weight: 700;">worthy of trust.</span></div>
             <div class="b2">The best minds are needed to represent stakeholders in shaping standards, best practices and other policies for robots <span style="font-style: italic; font-weight: 700;">we can live with.</span></div>
         </div>
-        
+
     </div>
   </section>
     <!-- /Problem -->
-  
+
     <!-- Hands -->
-    <div class="block bg-primary block-pd-lg block-bg-overlay text-center problem" id="problem" style="clear: both;"></div>
+    <div class="block bg-primary block-pd-lg block-bg-overlay text-center problem" id="problem" style="clear: both;">
+      <h2 style="font-weight:bold">
+        Introducing ACRO!<br>We are on a mission to become the world's most trusted generator of policy for the operation of cloud-connected robots that optimize the safety and quality of human life.
+      </h2>
+    </div>
     <!-- /Hands-->
-  
+
     <!-- Solution -->
     <section class="about" id="solution" style="clear: both; ">
     <div class="container text-center">
-      <h1 class="text-center" style="background-color: #199EB8; color: white; margin-bottom: 10px; border-radius: 5px;">SOLUTION</h1>
-      
+      <h1 class="text-center" style="background-color: #199EB8; color: white; margin-bottom: 10px; border-radius: 5px;">Here's how we will do it:</h1>
+
             <div class="row">
         <div class="feature-col col-lg-4 col-xs-12">
           <div class="card card-block text-center">
@@ -163,7 +183,7 @@ that optimize the safety and quality of human life.
                 </h3>
 
               <p style="font-size: .9rem; font-weight: 600; color: black">
-                The Acro stakeholder community serves as a locus of information and discussion on cloud robotics policy concerns and solutions. Dialogue occurs via a virtual platform and in-person conference events.  
+                The Acro stakeholder community serves as a locus of information and discussion on cloud robotics policy concerns and solutions. Dialogue occurs via a virtual platform and in-person conference events.
               </p>
             </div>
           </div>
@@ -183,7 +203,7 @@ that optimize the safety and quality of human life.
                 </h3>
 
               <p style="font-size: .9rem; font-weight: 600; color: black">
-                Acro policy solutions encompass the development of standards, templates for agreements, principles, and voluntary best practices. Acro certifications provide criteria and processes for AI engines, cloud operators, robots, and other interfaces to be evaluated and certified for interoperability, safety, reliability or security.  
+                Acro policy solutions encompass the development of standards, templates for agreements, principles, and voluntary best practices. Acro certifications provide criteria and processes for AI engines, cloud operators, robots, and other interfaces to be evaluated and certified for interoperability, safety, reliability or security.
               </p>
             </div>
           </div>
@@ -212,26 +232,26 @@ that optimize the safety and quality of human life.
     </div>
   </section>
     <!-- /Solution -->
-  
+
     <!-- Stakeholders -->
     <section class="about" id="stakeholders">
     <div class="container text-center">
       <h1 class="text-center" style="background-color: #199EB8; color: white; margin-bottom: 10px; border-radius: 5px;">Who Should Join Acro?</h1>
-       
+
            <p style="font-size: 2rem; font-weight: 700px; margin-bottom: 20px;">If you're. . . <br></p>
 
            <div class="stakeholders-content">
             <div class="t1">Designing robots and looking to increase the intelligence and safety of your creations.</div>
-            
+
             <div class="t2">Constructing AI and hardware for smart machines and seeking channels to easily distribute your products and services across a growing number of robots.</div>
-                
+
             <div class="t3">Establishing cloud and 5G networks that will service the next generation of digital agents.</div>
-            
+
             <div class="t4">A government or organization seeking to protect end-users from new technology.</div>
         </div>
 
           <p style="font-size: 2rem; margin-top: 20px;">. . . then Acro is the association for you.<br><br></p>
-          
+
       </div>
   </section>
     <!-- /Stakeholders -->
@@ -283,10 +303,17 @@ that optimize the safety and quality of human life.
         </div>
 
       </div>
+      <p><em>maybe repeat mission statement at end</em></p>
+      <p class="tagline" style="background-color: rgba(240,255,255,0.5); border-radius: 10px; color: black; font-weight: 600">
+        ACRO’s mission is to
+serve as the world’s most trusted generator of policy
+for the operation of cloud-connected robots
+that optimize the safety and quality of human life.
+      </p>
     </div>
   </section>
     <!-- /Contact -->
-    
+
     <!-- Footer -->
     <footer class="site-footer">
     <div class="bottom">
@@ -313,7 +340,7 @@ that optimize the safety and quality of human life.
               <li class="list-inline-item">
                 <a href="#solution">Solution</a>
               </li>
-              
+
               <li class="list-inline-item">
                 <a href="#stakeholders">Stakeholders</a>
               </li>
@@ -329,7 +356,7 @@ that optimize the safety and quality of human life.
     </div>
   </footer>
     <!-- /Footer -->
-    
+
     <!-- Scrolltop -->
     <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a>
     <!-- /Scrolltop -->
